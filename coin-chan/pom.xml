@@ -12,7 +12,7 @@
 
     <modules>
         <module>chan-api</module>
-        <module>chan-server</module>
+        <module>chan-service</module>
     </modules>
 
 </project>

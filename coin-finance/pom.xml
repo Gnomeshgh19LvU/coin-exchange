@@ -12,7 +12,7 @@
 
     <modules>
         <module>finance-api</module>
-        <module>finance-server</module>
+        <module>finance-service</module>
     </modules>
 
 

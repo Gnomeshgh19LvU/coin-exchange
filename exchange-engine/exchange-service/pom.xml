@@ -3,17 +3,16 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.ma</groupId>
-        <artifactId>coin-chan</artifactId>
+        <artifactId>exchange-engine</artifactId>
         <version>1.0</version>
     </parent>
 
-    <artifactId>chan-server</artifactId>
-
+    <artifactId>exchange-service</artifactId>
 
     <dependencies>
         <dependency>
             <groupId>com.ma</groupId>
-            <artifactId>chan-api</artifactId>
+            <artifactId>exchange-api</artifactId>
             <version>1.0</version>
         </dependency>
 

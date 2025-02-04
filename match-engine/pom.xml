@@ -14,7 +14,7 @@
     <url>http://maven.apache.org</url>
     <modules>
         <module>match-api</module>
-        <module>match-server</module>
+        <module>match-service</module>
     </modules>
 
     <properties>

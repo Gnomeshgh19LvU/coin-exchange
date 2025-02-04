@@ -14,7 +14,7 @@
     <url>http://maven.apache.org</url>
     <modules>
         <module>member-api</module>
-        <module>member-server</module>
+        <module>member-service</module>
     </modules>
 
     <properties>

@@ -7,7 +7,7 @@
         <version>1.0</version>
     </parent>
 
-    <artifactId>member-server</artifactId>
+    <artifactId>member-service</artifactId>
 
     <dependencies>
         <dependency>

@@ -3,16 +3,17 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.ma</groupId>
-        <artifactId>match-engine</artifactId>
+        <artifactId>coin-chan</artifactId>
         <version>1.0</version>
     </parent>
 
-    <artifactId>match-server</artifactId>
+    <artifactId>chan-service</artifactId>
+
 
     <dependencies>
         <dependency>
             <groupId>com.ma</groupId>
-            <artifactId>match-api</artifactId>
+            <artifactId>chan-api</artifactId>
             <version>1.0</version>
         </dependency>
 

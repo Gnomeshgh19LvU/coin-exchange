@@ -12,7 +12,7 @@
 
     <modules>
         <module>exchange-api</module>
-        <module>exchange-server</module>
+        <module>exchange-service</module>
     </modules>
 
 </project>

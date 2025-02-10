@@ -5,6 +5,17 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/coin-admin/admin-service/pom.xml" />
+        <option value="$PROJECT_DIR$/match-engine/pom.xml" />
+        <option value="$PROJECT_DIR$/coin-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/coin-chan/pom.xml" />
+        <option value="$PROJECT_DIR$/coin-common/pom.xml" />
+        <option value="$PROJECT_DIR$/coin-finance/pom.xml" />
+        <option value="$PROJECT_DIR$/coin-iaas/pom.xml" />
+        <option value="$PROJECT_DIR$/coin-member/pom.xml" />
+        <option value="$PROJECT_DIR$/coin-statistics/pom.xml" />
+        <option value="$PROJECT_DIR$/coin-task/pom.xml" />
+        <option value="$PROJECT_DIR$/exchange-engine/pom.xml" />
       </list>
     </option>
   </component>
